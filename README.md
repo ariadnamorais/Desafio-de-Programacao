@@ -5,7 +5,7 @@
 <p align="center">🚀 Projeto para um desafio de programação. Consiste em um sistema que permite cadastro de anúncios.  🚀</p>
 <p align="center">
  <a href="#Features">Features</a> •
- <a href="#-como-utilizar">Como utilizar</a> •
+ <a href="#como-utilizar">Como utilizar</a> •
  <a href="#pré-requisitos">Pré-requisitos</a> • 
  <a href="#-clonando-o-repositório">Clonando repositório</a> • 
  <a href="#-tecnologia">Tecnologia</a> • 
