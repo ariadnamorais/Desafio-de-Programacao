@@ -19,14 +19,15 @@
 ### Features
 
 - [x] Usuários
-    -[x] Cadastro
-    -[x] Excluir
-    -[x] Editar
+	- [x]Cadastro
+    	- [x] Excluir
+    	- [x] Editar
+    
 - [x] Anúncios
-    - [x] Inclusão
-    - [x] Exclusão
-    - [x] Cálculo de máximas do Anúncio
-    - [x] Visualizar valores de máximas
+   	- [x] Inclusão
+  	- [x] Exclusão
+   	- [x] Cálculo de máximas do Anúncio
+    	 [x] Visualizar valores de máximas
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dAq7mpXtOczGCBAXlh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dAq7mpXtOczGCBAXlh">Login</a></p>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IeXg6rTXMvBy4RJAQh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IeXg6rTXMvBy4RJAQh">Usuário</a></p>
