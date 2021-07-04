@@ -1,8 +1,8 @@
-<h1 align="center">Desafio de Programação</h1>
+<h1 align="center">Desafio de Programação Parte 2</h1>
 <h1 align="center">
     <a href="https://docs.oracle.com/en/java/javase/11/">🔗 Java</a>
 </h1>
-<p align="center">🚀 Projeto para um desafio de programação. Consiste em um sistema que permite cadastro de anúncios  🚀</p>
+<p align="center">🚀 Projeto para um desafio de programação. Consiste em um sistema que permite cadastro de anúncios.  🚀</p>
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
@@ -27,9 +27,13 @@
    	- [x] Inclusão
   	- [x] Exclusão
    	- [x] Cálculo de máximas do Anúncio
-    	 [x] Visualizar valores de máximas
+    	- [x] Visualizar valores de máximas
+
+
+![Alt Text] (https://media.giphy.com/media/dAq7mpXtOczGCBAXlh/giphy.gif)
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dAq7mpXtOczGCBAXlh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dAq7mpXtOczGCBAXlh">Login</a></p>
+
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IeXg6rTXMvBy4RJAQh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IeXg6rTXMvBy4RJAQh">Usuário</a></p>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IeXg6rTXMvBy4RJAQh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IeXg6rTXMvBy4RJAQh">Sobre</a></p>
 <div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/Vjgoj8iUljc3XBoyHt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Vjgoj8iUljc3XBoyHt">Anúncios</a></p>
