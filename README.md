@@ -29,16 +29,30 @@
    	- [x] Cálculo de máximas do Anúncio
     	- [x] Visualizar valores de máximas
 
+👉LOGIN
 
-![Alt Text] (https://media.giphy.com/media/dAq7mpXtOczGCBAXlh/giphy.gif)
+<img src="https://media.giphy.com/media/dAq7mpXtOczGCBAXlh/giphy.gif" width="700" height="300" />
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dAq7mpXtOczGCBAXlh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dAq7mpXtOczGCBAXlh">Login</a></p>
+👉USUÁRIOS 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IeXg6rTXMvBy4RJAQh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IeXg6rTXMvBy4RJAQh">Usuário</a></p>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IeXg6rTXMvBy4RJAQh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/IeXg6rTXMvBy4RJAQh">Sobre</a></p>
-<div style="width:100%;height:0;padding-bottom:49%;position:relative;"><iframe src="https://giphy.com/embed/Vjgoj8iUljc3XBoyHt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Vjgoj8iUljc3XBoyHt">Anúncios</a></p>
+<img src="https://media.giphy.com/media/IeXg6rTXMvBy4RJAQh/giphy.gif" width="700" height="300" />
 
-### Pré-requisitos
+👉 SOBRE
+
+<img src="https://media.giphy.com/media/JD5jvnnsvQRJ3ewlG1/giphy.gif" width="700" height="300" />
+
+👉 ANÚNCIOS
+
+<img src="https://media.giphy.com/media/Vjgoj8iUljc3XBoyHt/giphy.gif" width="900" height="500" />
+
+[Link alternativo do gif](https://media.giphy.com/media/Vjgoj8iUljc3XBoyHt/giphy.gif)
+
+
+
+
+
+
+### Pré-requisitos 
 
 👉Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Jdk 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html).
