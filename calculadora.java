@@ -10,7 +10,7 @@ public class calculadora {
    {
        Scanner entrada = new Scanner(System.in);
        float ValInPut;
-       float ValOneReal = 33.416f; /*Valor equivale a 1 real de investimento, considerando o anÃºncio original + os compartilhamentos */
+       float ValOneReal = 33.416f; /*Valor equivale a 1 real de investimento, considerando o anuncio original + os compartilhamentos */
        float ValResult;
        
        System.out.print("Digite o Valor do Investimento: R$ ");
