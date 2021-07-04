@@ -135,7 +135,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 🚀Ariadna Morais🚀
 
-Analista de Testes
+Desenvolvedora do projeto
 
 4º Semestre de Análise e Desenvolvimento de Sistemas
 
