@@ -26,7 +26,7 @@
    	- [x] Inclusão
   	- [x] Exclusão
    	- [x] Cálculo de máximas do Anúncio
-    	- [x] Visualizar valores de máximas
+   	- [x] Visualizar valores de máximas
 
 👉LOGIN
 
