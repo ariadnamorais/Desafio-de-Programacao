@@ -1,4 +1,4 @@
-<h1 align="center">Desafio de Programação Parte 2</h1>
+<h1 align="center">Desafio de Programação</h1>
 <h1 align="center">
     <a href="https://docs.oracle.com/en/java/javase/11/">🔗 Java</a>
 </h1>
