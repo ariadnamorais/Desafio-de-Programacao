@@ -4,13 +4,12 @@
 </h1>
 <p align="center">🚀 Projeto para um desafio de programação. Consiste em um sistema que permite cadastro de anúncios.  🚀</p>
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+ <a href="#Features">Features</a> •
+ <a href="#pré-requisitos">Pré-requisitos</a> • 
+ <a href="#-clonando-o-repositório">Clonando repositório</a> • 
+ <a href="#-tecnologia">Tecnologia</a> • 
+ <a href="#-autora-">Autora</a> • 
+ </p>
 
 <h4 align="center"> 
 	✅  JAVA 🚀 Concluído!  ✅
@@ -19,9 +18,9 @@
 ### Features
 
 - [x] Usuários
-	- [x]Cadastro
-    	- [x] Excluir
-    	- [x] Editar
+	- [x] Cadastro
+	- [x] Excluir
+	- [x] Editar
     
 - [x] Anúncios
    	- [x] Inclusão
@@ -80,16 +79,10 @@ $ cd desafio-de-Programacao
 - Clique em RUN (Aqui o projeto irá abrir)
 - Na tela de login, utilize o usuário: admin e senha: 1234
 
-### 🎲 Para rodar o projeto da parte 1 do desafio
-- Acesse o NetBeans IDE 11.1
-- Clique em File -> Open Project
-- Selecione o projeto Part1 (Esse projeto é a parte 1 do desafio)
-- Clique em Open Project
-- Navegue nas pastas do projeto (Source Packages/default package/calculadora.java)
-- na classe/arquivo calculadora.java, clique com o botão direto do mouse
-- clique em run file
+### 🎲 Sobre a parte 1
+- O projeto está neste repositório e possui o nome de calculadora.java
 
-### 🛠 Tecnologias
+### 🛠 Tecnologia
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -97,7 +90,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [SQLite 3.3.3](https://sqlitestudio.pl/)
 
 <h1 align="center">🚀 Autora 🚀</h1>
-Ariadna Morais
+
+🚀Ariadna Morais🚀
+Analista de Testes
+4º Semestre de Análise e Desenvolvimento de Sistemas
 
 👉Rede de contato:
 [Linkedin](https://www.linkedin.com/in/ariadna-patricio-morais/)
