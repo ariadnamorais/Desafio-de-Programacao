@@ -70,9 +70,9 @@
 
 1º Para cadastrar um novo anúncio, insira os dados: Nome do anúncio, Cliente, Investimento por dia e datas iniciais e finais (Atenção as datas! É possível inserir data utilizando apenas ponto. Ex.: 07.04.2021 ou 07.04)
 
-2º Logo aoós informar os dados, clique em salvar. As informações serão preenchidas na tabela.
+2º Logo após informar os dados, clique em salvar. As informações serão preenchidas na tabela.
 
-3º Para calcular as máximas (Visualizações, cliques e compartilhamentos), clique sobre o anúncio que deseja calcular e clique em Calcular Máximas. O resultado aparecerá na tabela. (Obs.: Ao lado do botão calcular máximas, existe um botão de interrogação para casos de dúvidas).
+3º Para calcular as máximas (visualizações, cliques e compartilhamentos), clique sobre o anúncio que deseja calcular e clique em Calcular Máximas. O resultado aparecerá na tabela. (Obs.: Ao lado do botão calcular máximas, existe um botão de interrogação para casos de dúvidas).
 
 4º O botão limpar serve para limpar os campos digitáveis da tela.
 
@@ -98,7 +98,7 @@
 👉Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Jdk 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html).
 
-👉Além disto é bom ter um editor para trabalhar com o código como e para compilar a aplicação.
+👉Além disto é bom ter um editor para trabalhar com o código e compilar a aplicação.
 [NetBeans IDE 11.1](https://netbeans.apache.org/download/nb111/nb111.html)()
 
 
