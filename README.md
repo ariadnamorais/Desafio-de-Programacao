@@ -92,8 +92,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h1 align="center">🚀 Autora 🚀</h1>
 
 🚀Ariadna Morais🚀
+
 Analista de Testes
+
 4º Semestre de Análise e Desenvolvimento de Sistemas
+
 
 👉Rede de contato:
 [Linkedin](https://www.linkedin.com/in/ariadna-patricio-morais/)
