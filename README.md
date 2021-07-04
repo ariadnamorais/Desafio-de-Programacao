@@ -46,10 +46,10 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ariadnamorais/desafio
+$ git clone https://github.com/ariadnamorais/Desafio-de-Programacao
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd desafio
+$ cd desafio-de-Programacao
 
 ```
 ### 🎲 Para rodar o projeto da parte 2 do desafio
