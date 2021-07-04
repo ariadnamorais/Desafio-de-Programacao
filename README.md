@@ -113,6 +113,7 @@ $ cd desafio-de-Programacao
 
 ```
 ### 🎲 Para rodar o projeto da parte 2 do desafio
+- A pasta do projeto está neste repositório e na pasta Calculadora
 - Acesse o NetBeans IDE 11.1
 - Clique em File -> Open Project
 - Selecione o projeto Calculadora (Esse projeto é a parte 2 do desafio)
