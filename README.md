@@ -138,7 +138,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Desenvolvedora do projeto
 
-4º Semestre de Análise e Desenvolvimento de Sistemas
+Análise e Desenvolvimento de Sistemas
 
 
 👉Rede de contato:
